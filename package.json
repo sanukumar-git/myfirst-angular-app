@@ -1,0 +1,23 @@
+{
+  "name": "first-example",
+  "version": "1.0.0",
+  "description": "first node handson",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "angular"
+  ],
+  "author": "Sanu Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-node": "^0.5.8",
+    "nodemon": "^1.12.5"
+  }
+}
